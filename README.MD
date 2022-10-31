@@ -1,5 +1,5 @@
 # GroovyRP
-Groove Music Rich Presence for Discord
+Groove Music Rich Presence for Discord, original authors: https://github.com/dsdude123/GroovyRP ; this is modified version of project, where I added timestamp and translated Rich Presence to russian
 ## System Requirements:
 
 * Windows 10 version 1809 or newer
